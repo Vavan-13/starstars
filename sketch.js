@@ -19,7 +19,7 @@ const CONFIG = {
     deceleration: 0.1,
   },
   rendu: {
-    tailleMax: 120, // taille des cercles
+    tailleMax: 60, // taille des cercles
   },
 };
 
