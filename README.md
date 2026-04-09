@@ -1,8 +1,8 @@
-# 🚀 Moteur Stellaire "Star Power" - p5.js
+# 🚀 Moteur Stellaire "Starstars" - p5.js
 
 Bienvenue sur le dépôt de mon Moteur Stellaire ! Ce projet est une expérience interactive développée avec p5.js. Voici le journal de bord de sa création.
 
-**Voir la visualisation en direct :** [Moteur Stellaire "Star Power"](https://vavan-13.github.io/starstars/)
+**Voir la visualisation en direct :** [Moteur Stellaire "Starstars"](https://vavan-13.github.io/starstars/)
 
 ---
 
@@ -45,6 +45,6 @@ Bienvenue sur le dépôt de mon Moteur Stellaire ! Ce projet est une expérience
 - **Parties réalisées avec l'IA :** Calcul mathématique de la projection perspective, gestion de l'interpolation (`lerp`) pour la sensation physique de poussée, et structure des classes.
 - **Prompts utilisés :** Voir la liste ci-dessus.
 - **Modifications personnelles :** _ J'ai ajusté le "spawn" des particules à `width _ 1.5` pour éviter les zones vides quand on déplace le point de fuite brusquement sur les bords.
-  - J'ai aussi modifié la palette pour qu'elle rappelle les couleurs "Star Power" de mon idée initiale.
+  - J'ai aussi modifié la palette pour qu'elle rappelle les couleurs "Starstars" de mon idée initiale.
 
 **Où commence l'interaction ?** Ici, elle commence dès le mouvement de l'aura (curseur) et se transforme en une expérience de "pilotage" lors du clic, créant cette illusion d'authorship recherchée.
